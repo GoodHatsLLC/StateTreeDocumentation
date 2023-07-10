@@ -1,0 +1,3 @@
+ #!/usr/bin/env bash
+
+echo '<!DOCTYPE html><html lang="en"><head><script>window.location.replace("http://docs.statetree.dev/documentation/StateTree");</script></head><body></body></html>' > docs/index.html
